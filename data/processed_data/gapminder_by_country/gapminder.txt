@@ -1,4 +1,4 @@
-country	year	pop	continent	lifeExp	gdpPerCap
+country	year	pop	continent	lifeExp	gdpPercap
 Afghanistan	1997	22227415	Asia	41.763	635.341351
 Afghanistan	2002	25268405	Asia	42.129	726.7340548
 Afghanistan	2007	31889923	Asia	43.828	974.5803384
